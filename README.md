@@ -15,6 +15,11 @@
 6. CS294 *Value functions introduction* -- Levine [Video](https://www.youtube.com/watch?v=k1vNh4rNYec&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=7&t=0s) | [Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_6_value_functions.pdf)
 
 ## Notes
+RL Algorithms Diagram
+![alt text](images/rl_algo_diagram.png "RL Algorithms Diagram")
 
+Interaction in Markov decision process
 ![alt text](images/mdp_brain.png "Markov decision process")
+
+
 
