@@ -28,4 +28,8 @@ Value Iteration in an MDP
 
 ![alt text](images/mdp_valueiteration.gif "Value Iteration in an MDP")
 
+OpenAI’s Crawler robot attempting to walk with random actions. [link to video](videos/crawler_random.mp4)
+
+The same Crawler robot after it has been trained for 30,000 steps with a Q-learning algorithm. [link to video](videos/crawler_qlearn_epsgreedy_30000.mp4)
+
 
