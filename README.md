@@ -19,7 +19,8 @@ RL Algorithms Diagram
 ![alt text](images/rl_algo_diagram.png "RL Algorithms Diagram")
 
 Interaction in Markov decision process
-![alt text](images/mdp_brain.png "Markov decision process")
+
+![alt text](images/mdp_brain_500.png "Markov decision process")
 
 Value Iteration in an MDP
 
